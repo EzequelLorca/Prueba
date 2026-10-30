@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-sqlite
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+gradio
+jupyter
